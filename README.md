@@ -1,1 +1,1 @@
-# subscripe
+# subscribe
